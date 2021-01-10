@@ -1,3 +1,5 @@
-.display-1 .text-white {
+.display-1 {
     float: left;
+    color: blue;
+    font-size: 100pt;
 }
