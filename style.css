@@ -1,5 +1,8 @@
-#subtext {
+.subtext {
     color: white;
+    float: left;
+    padding: 5%;
+    width: 20%;
 }
 
 .text-white {
