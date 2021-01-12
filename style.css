@@ -1,11 +1,11 @@
 .subtext {
-    color: white;
+    color: #6e6e6e;
     float: left;
     padding: 5%;
-    width: 20%;
+    width: 40%;
 }
 
 .text-white {
-    width: 50%;
+    width: 20%;
     float: left;
 }
