@@ -9,8 +9,14 @@ html, body {
 .frame-holder {
     height: 100%;
     width: 100%;
+    position: relative;
 }
 
+.chris {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
 
 .click {
     color: white;
@@ -21,10 +27,6 @@ html, body {
     height: 40px;
 }
 
-.chris {
-    height: 100%;
-    width: 100%;
-    position: absolute;
-}
+
 
 
