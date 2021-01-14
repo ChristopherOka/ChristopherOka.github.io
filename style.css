@@ -1,3 +1,5 @@
+
+
 html, body {
     padding: 0;
     margin: 0;
@@ -5,9 +7,8 @@ html, body {
     height: 100%;
 }
 
-
 .frameholder {
-    height: 100%;
+    height: 91.5%;
     width: 100%;
     position: relative;
 }
@@ -18,14 +19,22 @@ html, body {
 }
 
 
-.click {
+.info_card {
     position: absolute;
-    color: white;
-    top: 50%;
-    left: 20%;
-    width: 100%;
-    height: 40px;
+    color: black;
+    top: 0;
+    left: 0;
+    height: 100%;
 }
 
+.info_card2 {
+    position: absolute;
+    color: black;
+    right: 0;
+    top: 0;
+    height: 100%; 
+}
 
+.centerbar {
+}
 
